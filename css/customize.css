@@ -276,7 +276,7 @@ aside .active {
   background-color: #e63946;
 }
 .upgrade {
-  background-image: url("./images/credit-card.png");
+  background-image: url("../images/credit-card.png");
   background-repeat: no-repeat;
   background-origin: border-box;
   background-position: top;
